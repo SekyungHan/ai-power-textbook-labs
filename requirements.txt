@@ -1,0 +1,28 @@
+# ai_power_textbook_labs — 도구에서 동료로: AI 시대의 전력 시스템
+# Google Colab 실습 환경 패키지
+
+# Deep Learning
+torch
+
+# Data & Scientific Computing
+numpy>=1.24,<2.0
+pandas>=2.0,<3.0
+scipy>=1.11,<2.0
+scikit-learn>=1.3,<2.0
+
+# Visualization
+matplotlib>=3.7,<4.0
+seaborn>=0.13,<1.0
+
+# Power Systems
+pandapower>=2.13,<3.0
+pypsa>=0.27,<1.0
+networkx>=3.1,<4.0
+
+# UI & API
+gradio>=4.0,<5.0
+anthropic>=0.25,<1.0
+
+# Notebook
+jupyter>=1.0
+nbconvert>=7.0,<8.0
