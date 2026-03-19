@@ -20,7 +20,7 @@ pypsa>=0.27,<1.0
 networkx>=3.1,<4.0
 
 # UI & API
-gradio>=4.0,<5.0
+gradio==4.44.1
 anthropic>=0.25,<1.0
 
 # Notebook
